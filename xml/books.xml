@@ -1,0 +1,14 @@
+<books id="0001">
+    <title>Cancion de Hielo y Fuego</title>
+    <autor>George R. R. Martin</autor>
+</books>
+
+<books id="0002">
+    <title>El Señor de los anillos - El retorno del rey</title>
+    <autor>J. R. R. Tolkien</autor>
+</books>
+
+<books id="0003">
+    <title>Harry Potter y la camara secreta</title>
+    <autor>J. K. Rowling</autor>
+</books>
